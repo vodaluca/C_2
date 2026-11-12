@@ -7,7 +7,7 @@
 #include <assert.h>
 #include <stdbool.h>
 #include <stdio.h>
-
+//Activitatea de azi a fost interesanta
 bool isPalindrome(int number);
 
 /** Driver Code */
